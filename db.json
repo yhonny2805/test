@@ -60,5 +60,8 @@
     "username": "amanadaa", 
     "email": "amanadaa@test.com"
     }
-    ]
+    ],
+  "profile": {
+    "name": "typicode"
       }
+}
